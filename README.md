@@ -2,7 +2,7 @@
 
 ## 🔖  O que é os 100 dias de Swift?
 
-É uma maratona que vai ajudar desenvolvedores iniciantes a aprender Swift, de uma maneira que o mesmo se mantenha constante durante os 100 dias.   
+É uma maratona que vai ajudar desenvolvedores iniciantes a aprender Swift, de uma maneira que o mesmo se mantenha constante durante os 100 days.   
 <br>
 
 ## 🔖 Redes Sociais
